@@ -12,7 +12,7 @@
 - 🎓 Student at MAN 2 Kudus
 - 👤 It's me [@hndrali](https://instagram.com/hndrali)
 - 🤖 Robotics part of MAN 2 Kudus Robotics Team 
-- 🎥 Videographer & Filmmaker Enthusiast at 
+- 🎥 Videographer & Filmmaker Enthusiast 
 - 💼 Founder [@shiqproduction](https://instagram.com/shiqpro)
 - 🛡️ Exploring Cybersecurity and Mechine Learning
 - 🤝 Participant in Microsoft AI Training Program
