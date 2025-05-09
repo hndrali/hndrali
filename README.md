@@ -14,7 +14,7 @@
 ### 🧠 About Me
 
 - 🎓 Student at MAN 2 Kudus
-- 👤 It's me [@hndrali](https://instagram.com/hndrali)
+- 👤 It's me [@hndrali_](https://instagram.com/hndrali_)
 - 🤖 Robotics part of MAN 2 Kudus Robotics Team 
 - 🎥 Videographer & Filmmaker Enthusiast 
 - 💼 Founder [@shiqproduction](https://instagram.com/shiqpro)
