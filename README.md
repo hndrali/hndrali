@@ -52,7 +52,7 @@
 
 [![Instagram](https://img.shields.io/badge/@hndrali_-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/hndrali_)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hndrali)
-[![GitHub](https://img.shields.io/github/followers/shiq29?label=GitHub&style=social)](https://github.com/hndral)
+[![GitHub](https://img.shields.io/github/followers/shiq29?label=GitHub&style=social)](https://github.com/hndrali)
 
 ---
 
