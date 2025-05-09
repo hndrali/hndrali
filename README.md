@@ -2,7 +2,7 @@
 <h3 align="center" style="color:#cccccc;">AI Enthusiast | Robotics Developer | Videographer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub+profile;Exploring+AI+and+Robotics;Capturing+moments+through+videography" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub+profile;Exploring+AI+and+Robotics;Capturing+moments+through+videography;Bring+Creativity+With+Technology" alt="Typing SVG" />
 </p>
 
 ---
