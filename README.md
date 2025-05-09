@@ -34,6 +34,8 @@
 ![ESP32](https://img.shields.io/badge/ESP32-3C3C3C?style=flat-square&logo=espressif&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
+![Pentesting](https://img.shields.io/badge/Pentesting-E34C26?style=flat-square&logo=gnuprivacyguard&logoColor=white)
 
 ---
 
