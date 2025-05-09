@@ -55,6 +55,7 @@
 ### 📫 Connect with Me
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/hndrali_)
+[![TikTok](https://img.shields.io/badge/TikTok-000000?style=flat-square&logo=tiktok&logoColor=white)](https://www.tiktok.com/@hndrali)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hndrali)
 [![GitHub](https://img.shields.io/github/followers/hndrali?label=GitHub&style=social)](https://github.com/hndrali)
 
