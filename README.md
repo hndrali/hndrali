@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/hndrali/hndrali/blob/main/header.jpg" alt="Banner" width="100%" />
+</p>
+
 <h1 align="center" style="color:#ffffff;">Hi, I'm Mahendra Ali Shidiq</h1>
 <h3 align="center" style="color:#cccccc;">AI Enthusiast | Robotics Developer | Videographer</h3>
 
