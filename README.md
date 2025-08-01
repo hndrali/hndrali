@@ -48,6 +48,9 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=hndrali&label=Profile%20views&color=blueviolet&style=flat" alt="azzanslebew" />
   <img src="https://img.shields.io/github/followers/hndrali?label=Followers&style=flat&color=blue" alt="GitHub Followers" />
+</p>
+
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=hndrali&show_icons=true&theme=dracula" alt="GitHub Stats" width="47%"/>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=hndrali&theme=dracula" alt="GitHub Streak" width="47%"/>
 </p>
